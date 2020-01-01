@@ -10,7 +10,8 @@ redirect_from:
 
 I am currently working as a Machine Learning Engineer in Linkedin AI team. Previously I was a master student at Carnegie Mellon University, Language Technology Institute,
 supervised by [Prof. Kayhan Batmanghelich](https://kayhan.dbmi.pitt.edu/). I received my Bachelor’s Degree in Tsinghua University (2018) and my undergraduate research are focused on Reinforcement Learning and Natural Language Processing.
-Click here to view my up-to-date CV.
+I spent 12 wonderful weeks as a research assistant in [Prof. Jian Peng](http://jianpeng.web.engr.illinois.edu/)'s lab in University of Illinois at Urbana-Champaign during the summer of 2017.
+[Click here to view my up-to-date CV](http://yukeyi.github.io/files/CV.pdf).
 
 Publications
 ======
