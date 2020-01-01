@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Keyi Yu (于科屹)"
+title                    : "Keyi Yu"
 title_separator          : "-"
 name                     : &name "Keyi Yu"
-description              : &description "Master student of Carnegie Mellon University, Machine Learning Engineer at Linked[in]"
+description              : &description "description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Keyi Yu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "CS Master @ CMU, Machine Learning Engineer @ Linked[in]"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
