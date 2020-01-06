@@ -5,12 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<b>[Attention Based End-To-End Speech-To-Text Translator](https://www.kaggle.com/c/11785-s19-hw4p2/)</b> <br>
+* Implemented a encoder-decoder model with attention mechanism, boosting with techniques like pooling BiLSTM, Teacher forcing rate scheduler, Beam search.
+* Achieved 7.5 Levenshtein distance on Wall Street Journal dataset, ranked 1st among 166 people.
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<b>[Attention Based End-To-End Speech-To-Text Translator](https://www.kaggle.com/c/11785-s19-hw4p2/)</b> <br>
+* Implemented a encoder-decoder model with attention mechanism, boosting with techniques like pooling BiLSTM, Teacher forcing rate scheduler, Beam search.
+* Achieved 7.5 Levenshtein distance on Wall Street Journal dataset, ranked 1st among 166 people.
