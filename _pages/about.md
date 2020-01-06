@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently working as a Machine Learning Engineer in Linkedin AI team. Before that I was a master student at Carnegie Mellon University, Language Technology Institute,
 supervised by [Prof. Kayhan Batmanghelich](https://kayhan.dbmi.pitt.edu/). I received my Bachelor’s Degree in Tsinghua University (2018) and my undergraduate research are focused on Reinforcement Learning and Natural Language Processing.
-I only interned in Microsoft Research Asia (MSRA) machine learning team lead by [Tao qin](https://www.microsoft.com/en-us/research/people/taoqin/) and [Fei Tian](https://scholar.google.com/citations?user=SZbCPDEAAAAJ&hl=zh-CN) for 6 months since September of 2017 and spent 12 wonderful weeks as a research assistant in [Prof. Jian Peng](http://jianpeng.web.engr.illinois.edu/)'s lab in University of Illinois at Urbana-Champaign during the summer of 2017.
+I only interned in Microsoft Research Asia (MSRA) machine learning team lead by [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/) and [Fei Tian](https://scholar.google.com/citations?user=SZbCPDEAAAAJ&hl=zh-CN) for 6 months since September of 2017 and spent 12 wonderful weeks as a research assistant in [Prof. Jian Peng](http://jianpeng.web.engr.illinois.edu/)'s lab in University of Illinois at Urbana-Champaign during the summer of 2017.
 [Click here to view my up-to-date CV](http://yukeyi.github.io/files/CV.pdf).
 
 Publications

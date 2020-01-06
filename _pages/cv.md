@@ -9,51 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
+[Click here to view my up-to-date CV](http://yukeyi.github.io/files/CV.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Software, Tsinghua University, China, 2014-2018
+* M.S. in Computer Science, Carnegie Mellon University, United States, 2018-2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017: NLP Research Assistant
+  * University of Illinois Urbana-Champaign
+  * Supervised by Prof. Jian Peng and Dr Yang Liu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017.09 - 2018.03: Machine Learning Research Intern
+  * Microsoft Research Asia, Machine Learning Group
+  * Supervised by Dr Tao Qin and Dr Fei Tian
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2019.05 - 2019.08: Machine Learning Intern
+  * Linkedin, Flagship Search
+  * Supervised by Anand Kishore and Abhimanyu Lad
